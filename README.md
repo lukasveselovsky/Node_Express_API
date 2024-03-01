@@ -1,5 +1,5 @@
 # Node Express REST API with Mock Data
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman)](https://skillicons.dev)
 
 
 This is a simple RESTfull API built with Node.js and Express.js. The purpose of this API is to demonstrate how to create endpoints and handle HTTP requests and responses without a database, using mock data instead. The project was created as a tool for my private purposes of learning about REST API testing. The uuid library is used to generate the ID.
