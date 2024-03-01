@@ -1,6 +1,6 @@
 # Node Express REST API with Mock Data
 
-This is a simple RESTful API built with Node.js and Express.js. The purpose of this API is to demonstrate how to create endpoints and handle HTTP requests and responses without a database, using mock data instead. The project was created as a tool for my private purposes of learning about REST API testing.
+This is a simple RESTfull API built with Node.js and Express.js. The purpose of this API is to demonstrate how to create endpoints and handle HTTP requests and responses without a database, using mock data instead. The project was created as a tool for my private purposes of learning about REST API testing. The uuid library is used to generate the ID.
 
 ## Prerequisites
 
@@ -36,11 +36,11 @@ This is a simple RESTful API built with Node.js and Express.js. The purpose of t
 
 ## API Endpoints
 
-- **GET /api/users**
+- **GET /users**
 
   finds all users
 
-- **GET /api/users/:id**
+- **GET /users/:id**
 
   Retrieves details of a specific user by ID.
 
@@ -48,7 +48,7 @@ This is a simple RESTful API built with Node.js and Express.js. The purpose of t
 
   Creates a new user. Requires a JSON object with user details in the request body.
 
-- **PUT /api/users/:id**
+- **PATCH /api/users/:id**
 
   Updates details of a specific user by ID. Requires a JSON object with updated user details in the request body.
 
