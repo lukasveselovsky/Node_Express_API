@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman)](https://skillicons.dev)
 
 
-This is a simple RESTfull API built with Node.js and Express.js. The purpose of this API is to demonstrate how to create endpoints and handle HTTP requests and responses without a database, using mock data instead. The project was created as a tool for my private purposes of learning about REST API testing. The uuid library is used to generate the ID.
+This is a simple RESTful API built with Node.js and Express.js. The purpose of this API is to demonstrate how to create endpoints and handle HTTP requests and responses without a database, using mock data instead. The project was created as a tool for my private purposes of learning about REST API testing. The uuid library is used to generate the ID.
 
 ## Prerequisites
 
@@ -75,5 +75,9 @@ Mock data is stored in the user.json directory. You can modify this data to suit
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to add features, feel free to open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or suggestions regarding this project, feel free to contact the project owner at [lukas.veselovsky1@gmail.com](mailto:lukas.veselovsky1@gmail.com).
 
 ---
