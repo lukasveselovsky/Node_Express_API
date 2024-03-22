@@ -7,6 +7,18 @@ This is a simple RESTful API built with Node.js and Express.js. The purpose of t
 ## Prerequisites
 
 - Node.js installed on your local machine.
+  
+## File structure
+- Node_Express_API/
+  - controllers/
+    - user.js
+  - node_modules/
+  - routes/
+    - user.js
+  - index.js
+  - package-lock.json
+  - package.json
+  - user.json
 
 ## Getting Started
 
